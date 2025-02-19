@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|e:\\iti\\09_revit_api\\courseprojects\\final_project\\final version\\finalptoject_v4_application\\finalptoject_v4_application\\revitapi_project1\\createfoundationicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|solutionrelative:revitapi_project1\\createfoundationicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|e:\\iti\\09_revit_api\\courseprojects\\final_project\\final version\\finalptoject_v4_application\\finalptoject_v4_application\\revitapi_project1\\createdimensionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|solutionrelative:revitapi_project1\\createdimensionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|e:\\iti\\09_revit_api\\courseprojects\\final_project\\final version\\finalptoject_v4_application\\finalptoject_v4_application\\revitapi_project1\\createcolumnsinintersectionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|solutionrelative:revitapi_project1\\createcolumnsinintersectionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|e:\\iti\\09_revit_api\\courseprojects\\final_project\\final version\\finalptoject_v4_application\\finalptoject_v4_application\\revitapi_project1\\createslabcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB050896-5B55-468E-A1F5-D1AD7C8FE348}|RevitAPI_Project1\\RevitAPI_Project1.csproj|solutionrelative:revitapi_project1\\createslabcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateDimensionsCommand.cs",
+              "DocumentMoniker": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateDimensionsCommand.cs",
+              "RelativeDocumentMoniker": "RevitAPI_Project1\\CreateDimensionsCommand.cs",
+              "ToolTip": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateDimensionsCommand.cs*",
+              "RelativeToolTip": "RevitAPI_Project1\\CreateDimensionsCommand.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:51:57.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateColumnsInIntersectionsCommand.cs",
+              "DocumentMoniker": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateColumnsInIntersectionsCommand.cs",
+              "RelativeDocumentMoniker": "RevitAPI_Project1\\CreateColumnsInIntersectionsCommand.cs",
+              "ToolTip": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateColumnsInIntersectionsCommand.cs*",
+              "RelativeToolTip": "RevitAPI_Project1\\CreateColumnsInIntersectionsCommand.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:50:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFoundationICommand.cs",
+              "DocumentMoniker": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateFoundationICommand.cs",
+              "RelativeDocumentMoniker": "RevitAPI_Project1\\CreateFoundationICommand.cs",
+              "ToolTip": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateFoundationICommand.cs",
+              "RelativeToolTip": "RevitAPI_Project1\\CreateFoundationICommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:51:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSlabCommand.cs",
+              "DocumentMoniker": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateSlabCommand.cs",
+              "RelativeDocumentMoniker": "RevitAPI_Project1\\CreateSlabCommand.cs",
+              "ToolTip": "E:\\ITI\\09_Revit_API\\CourseProjects\\Final_Project\\Final version\\FinalPtoject_V4_Application\\FinalPtoject_V4_Application\\RevitAPI_Project1\\CreateSlabCommand.cs*",
+              "RelativeToolTip": "RevitAPI_Project1\\CreateSlabCommand.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:50:56.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 446,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

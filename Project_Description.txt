@@ -1,0 +1,59 @@
+Team Members:
+	1 - Gaber Raafat Gaber 
+	2 - Ibrahem Ahmed Abdelazim
+	3 - Ismael Atef 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prject Description.
+--------------------
+
+- The project is a plug-in tab panel called IGI plug-ins 
+- The Tab panel contains 4 isolated plug-in 
+
+1 - plug-in (1): Grid creation.
+		
+		     - it is used to create Grids in both X-Direction and Y-Direction in on click 
+		       with customed spacing between the Grids.
+			
+		       * Future Inhancement :  Making the process of creating grids more dynamic by identifing the 
+					       number of grids in X-Diection and the Spacing between them 
+					       and the number of Grids in Y-Direction and spacing between them.
+	
+			
+-----------------------------------------------------
+	
+2 - plug-in (2): Columns creation.
+		
+		     - it is used to create Columns at Grids intersection in one click from level 1 to level 2
+		       with specific type (450X 600mm)
+			
+		       * Future Inhancement :  Making the process of creating Columns more dynamic by identifing the 
+					       Type of columns and the level of creation 
+
+-----------------------------------------------------
+
+3 - plug-in (3): Foundation creation.
+		
+		     - it is used to create isolated footing at Grids intersection and under columns
+		       in one click. with specific type.
+			
+		       * Future Inhancement :  Making the process of creating Isolated Footings more dynamic 
+					       by identifing the fammily of foundation (isolated - slab)
+					       and the type of foundation (Dimensions)
+
+-----------------------------------------------------
+4 - plug-in (4): Slab creation.
+		
+		     - it is used to create  Structural floor Slab with specific type at level 2.
+			 
+		       * Future Inhancement :  Making the process of creating Structural floor Slab  more dynamic 
+					       by identifying type of slab and (Dimensions)
+
+-----------------------------------------------------
+5 - plug-in (5): Creating dimensions for the Grids.
+		
+		     - it is used to create The Dmensions between the Grids indevidulas and the total width of the Grids
+		       in both X-Directuion and Y-Direction in one click.
+			 
+		       * Future Inhancement :  Creatin dimensions between structural elements (Foundation - columns)
+					       Faces in all direction and the  nearest Grids. 
